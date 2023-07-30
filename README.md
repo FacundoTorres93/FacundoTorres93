@@ -1,5 +1,5 @@
-<div class="id" align="center">
-   <img src="https://media.giphy.com/media/mYhd1NHQkHmZLiqN7M/giphy.gif" width="200"> 
+<div class="header" align="center">
+   <img src="https://i.blogs.es/4e5da4/github3/450_1000.jpg" width="400"> 
    <h1 align="center">Hola 👋, Mi nombre es Facundo Torres</h1>
    <h3 align="center">Apasionado por la programación y aprendizaje constante. Busco desafíos para crecer en el mundo tecnológico. Mi motivación es seguir aprendiendo y adquirir experiencia en el fascinante campo de la informática. 🚀</h3>
 </div>
