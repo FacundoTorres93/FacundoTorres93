@@ -16,7 +16,7 @@
 
 - 📚 Soy estudiante de la carrera Analista de Sistemas.
   
-- 💻 Apasionado por aprender nuevas tecnologías, actualmente aprendiendo en **Node.js y React**.
+- 💻 Apasionado por aprender nuevas tecnologías, actualmente aprendiendo en **Nodejs y React**.
   
 - 📩 Puedes contactarme a través de mi correo electrónico: facundoignaciotorres@gmail.com
 
